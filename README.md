@@ -34,7 +34,7 @@ This project analyzes Ola ride data to uncover actionable insights related to cu
 9. Total booking value for successful rides  
 10. List incomplete rides and their reasons
 
-👉 All SQL queries are available in Ola_project.sql
+👉 All SQL queries are available in 'Ola_project.sql'
 
 ---
 
@@ -52,7 +52,7 @@ This project analyzes Ola ride data to uncover actionable insights related to cu
 
 ## 📊 Power BI Dashboard
 
-👉 Power BI Dashboard available in Ola Ride Analytics Dashboard.pbix
+👉 Power BI Dashboard available in 'Ola Ride Analytics Dashboard.pbix'
 
 > Visual insights on bookings, cancellations, payment trends, vehicle ratings, and more
 
